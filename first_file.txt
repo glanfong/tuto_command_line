@@ -1,0 +1,1 @@
+Hello, I'm the first new file of this command-line git tutorial
